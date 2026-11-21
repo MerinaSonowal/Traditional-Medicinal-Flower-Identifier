@@ -1,2 +1,2 @@
 # Traditional-Medicinal-Flower-Identifier
-Computer vision app that identifies medicinal flowers and plants and maps them to traditional medical uses, active chemical compounds, and health warnings.
+​A miniproject combining botany and medical science to classify medicinal flowers and plant leaves (such as Hibiscus, Marigold, Neem, and Shankhpushpa) using image classification. Identified plants are linked to information on traditional medicinal uses, active chemical components, and health/toxicity warnings. Built with Python, OpenCV, TensorFlow/PyTorch, and Streamlit/Flask.
